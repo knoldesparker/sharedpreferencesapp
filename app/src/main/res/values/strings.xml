@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedpreferencesApp</string>
+    <string name="register_user">register user</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hello">Hello</string>
+    <string name="messages">Have a great day</string>
+    <string name="da">DA</string>
+    <string name="de">DE</string>
+    <string name="es">ES</string>
+    <string name="lbl_langSelectEnglis">english</string>
+</resources>

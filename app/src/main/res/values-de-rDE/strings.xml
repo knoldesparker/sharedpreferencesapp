@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SharedpreferencesApp</string>
+    <string name="messages">Ich wünsche ihnen einen wunderbaren Tag</string>
+    <string name="register_user">Benutzer registrieren</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hello">Guten Tag</string>
+    <string name="de">DE</string>
+    <string name="es">ES</string>
+    <string name="da">DA</string>
+</resources>
